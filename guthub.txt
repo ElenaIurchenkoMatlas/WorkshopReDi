@@ -1,0 +1,18 @@
+Your identification has been saved in C:UsersiurchOneDriveDokumenteGitHubid_ecdsa_sk
+Your public key has been saved in C:UsersiurchOneDriveDokumenteGitHubid_ecdsa_sk.pub
+The key fingerprint is:
+SHA256:JNDJY0nTccdViGkF/CFZ+2MCfYh6mb0F0GTEKmc19EE iurchenko.matlas.el@gmail.com
+The key's randomart image is:
++-[ECDSA-SK 256]--+
+|    .+o+...+O&=E.|
+|     .B... .&==..|
+|     ....  +o*o+ |
+|       o ..+= +. |
+|        S.++ o +.|
+|          .   = .|
+|             .   |
+|                 |
+|                 |
++----[SHA256]-----+
+
+"HorseBattery$Staple2024"
